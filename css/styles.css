@@ -1,0 +1,17 @@
+/*
+    Fernando Carvalho de Souza
+    Fcarvalhodesouz1115@conestogac.on.ca
+    #8911115
+*/
+
+body{
+    height: 100vh;
+    width: 100vw;
+    background-color: hsla(239, 54%, 50%, 0.3);
+    font: normal normal normal 12px/1.5 Verdana, Arial, Helvetica;
+}
+
+h2{
+    color: #009900;
+    font-size: 1.5rem;
+}
