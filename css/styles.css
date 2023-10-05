@@ -6,12 +6,48 @@
 
 body{
     height: 100vh;
-    width: 100vw;
+    width: 99vw;
     background-color: hsla(239, 54%, 50%, 0.3);
     font: normal normal normal 12px/1.5 Verdana, Arial, Helvetica;
 }
 
 h2{
     color: #009900;
-    font-size: 1.5rem;
+    font-size: 2rem;
+}
+main{
+    float: left;
+    width: 65vw;
+    height: 60vh;
+    background-color: hsl(73, 74%, 47%);
+}
+aside{
+    float: right;
+    width: 25vw;
+    height: 60vh;
+    background-color: hsl(300, 15%, 67%);
+}
+footer{
+    clear: both;
+    background-color: hsl(191, 40%, 46%);
+}
+.structural{
+    padding: 10px;
+    margin: 10px;
+    border: 2px solid black;
+}
+#para1{
+    color: rgb(245, 123, 223);
+}
+#para2{
+    color: rgb(99, 17, 28);
+}
+header{
+    background-color: hsl(14, 74%, 47%);
+}
+a:hover{
+    color: #09c;
+}
+footer p{
+    font-size: .75em;
 }
